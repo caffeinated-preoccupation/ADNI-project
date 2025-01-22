@@ -1,6 +1,6 @@
 # Gut and Serum Metabolites and Alzheimer’s: Exploring the Link Between Metabolite Levels and the Risk of Developing Alzheimer’s
 
-This project aims to explore the link between the future Alzheimer's risk of a patient given some metabolite metrics. The data used for this compilation of exploratory data analysis was downloaded from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database (adni.loni.usc.edu).
+This project aims to explore the link between the future Alzheimer's risk of a patient given some metabolite metrics. The data used for this compilation of exploratory data analysis was downloaded from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database (adni.loni.usc.edu). Unfortunately, I cannot put the data up as part of the data agreement. 
 
 ## Installation
 
